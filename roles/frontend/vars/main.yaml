@@ -1,1 +1,3 @@
 BACKEND_HOST: backend.ajay-juturu.site
+APP_LOCAION: /usr/share/nginx/html
+COMPONENT: frontend
